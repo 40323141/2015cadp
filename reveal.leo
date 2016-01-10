@@ -36,10 +36,13 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="leo.20160109124521.1"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20160109125407.1"><vh>@edit 40323141_cp_w13_p.html</vh></v>
-<v t="leo.20160109125410.1"><vh>@edit 40323141_cp_w14_p.html</vh></v>
-<v t="leo.20160109125414.1"><vh>@edit 40323141_cp_w15_p.html</vh></v>
-<v t="leo.20160109125417.1"><vh>@edit 40323141_cp_w16_p.html</vh></v>
+<v t="leo.20160110224324.1"><vh>@edit 40323141_cp_w11_p.html</vh></v>
+<v t="leo.20160110224319.1"><vh>@edit 40323141_cp_w12_p.html</vh></v>
+<v t="leo.20160110224314.1"><vh>@edit 40323141_cp_w13_p.html</vh></v>
+<v t="leo.20160110224308.1"><vh>@edit 40323141_cp_w14_p.html</vh></v>
+<v t="leo.20160110224304.1"><vh>@edit 40323141_cp_w15_p.html</vh></v>
+<v t="leo.20160110224259.1"><vh>@edit 40323141_cp_w16_p.html</vh></v>
+<v t="leo.20160110224245.1"><vh>@edit 40323141_cp_w17_p.html</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20160109125025.1"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20160109125056.1"><vh>@edit publishconf.py</vh></v>
@@ -55,13 +58,13 @@
 <v t="leo.20160109124943.10"><vh>@edit 2015cphww8.md</vh></v>
 <v t="leo.20160109124943.11"><vh>@edit 2015cphww9.md</vh></v>
 <v t="leo.20160109124943.12"><vh>@edit 2015cphww10.md</vh></v>
-<v t="leo.20160109124943.13"><vh>@edit 2015cphww11.md</vh></v>
-<v t="leo.20160109124943.14"><vh>@edit 2015cphww12.md</vh></v>
-<v t="leo.20160109124943.15"><vh>@edit 2015cphww13.md</vh></v>
-<v t="leo.20160109124943.16"><vh>@edit 2015cphww14.md</vh></v>
-<v t="leo.20160109124943.17"><vh>@edit 2015cphww15.md</vh></v>
-<v t="leo.20160109124943.18"><vh>@edit 2015cphww16.md</vh></v>
-<v t="leo.20160109124943.19"><vh>@edit 2015cphww17.md</vh></v>
+<v t="leo.20160110223950.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20160110223958.1"><vh>@edit 2015cphww12.md</vh></v>
+<v t="leo.20160110224033.1"><vh>@edit 2015cphww13.md</vh></v>
+<v t="leo.20160110224045.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="leo.20160110224052.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="leo.20160110224102.1"><vh>@edit 2015cphww16.md</vh></v>
+<v t="leo.20160110223943.1"><vh>@edit 2015cphww17.md</vh></v>
 </v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
